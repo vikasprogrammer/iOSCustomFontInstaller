@@ -41,7 +41,5 @@ $data
 <string>DC75965B-4600-4226-BA4A-F87EA7782A1F_$fontname</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
-<key>DurationUntilRemoval</key>
-<integer>2</integer>
 </dict>
 </plist>";
