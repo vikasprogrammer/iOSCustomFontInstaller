@@ -32,13 +32,13 @@ $data
 <key>PayloadDisplayName</key>
 <string>$fontname</string>
 <key>PayloadIdentifier</key>
-<string>com.tb3.fonts.$fontname</string>
+<string>com.tb3.fonts</string>
 <key>PayloadOrganization</key>
 <string>tb3.co.in</string>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>59145A6E-63C4-4B68-B0B3-1E4568CE121B_$fontname</string>
+<string>DC75965B-4600-4226-BA4A-F87EA7782A1F_$fontname</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>DurationUntilRemoval</key>
