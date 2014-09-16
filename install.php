@@ -32,7 +32,7 @@ $data
 <key>PayloadDisplayName</key>
 <string>$fontname</string>
 <key>PayloadIdentifier</key>
-<string>com.tb3.fonts</string>
+<string>com.tb3.fonts.$fontname</string>
 <key>PayloadOrganization</key>
 <string>tb3.co.in</string>
 <key>PayloadType</key>
