@@ -20,7 +20,7 @@ move_uploaded_file( $_FILES['userFile']['tmp_name'], $target );
 <?php
 // var_dump(glob('ttfs/*'));
 foreach(glob('ttfs'.'/*.ttf') as $file) {
-    echo '<a href="install.php?font='.$file."\">$file</a>";
+    echo '<a href="install.php?font='.$file."\">$file</a><br>";
 }
 
 ?>
